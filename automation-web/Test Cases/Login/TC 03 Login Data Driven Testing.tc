@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 03 Login Data Driven Testing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>addb76fd-4ad8-4e84-8369-a221053d3879</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>404a4056-be8a-4a7e-95f1-a867ade2c29a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e6d6cd5-8063-4c00-b932-02ff08bff56f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,4 @@
+username,password
+standart_user,secret_sauce
+standart_user,wrongPassword
+wrongUsername,wrongPassword
